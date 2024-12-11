@@ -29,38 +29,5 @@
 
 <br>
 
-## 🛠️ My Skills
-
-####  Programming languages
-
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-   
-</p>
-
-####  My Github Stats
- <div>
-  <a href="https://github.com/arib-shan">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aribshan&layout=compact&langs_count=16&theme=github_dark"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aribshan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
-<br>
-<br>
 
 
