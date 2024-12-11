@@ -28,6 +28,3 @@
 - ⚡**Hobbies:** Video Games 🎮, Music and Instruments 🎸, Basketball 🏀, Competitive Programming 💻
 
 <br>
-
-
-
