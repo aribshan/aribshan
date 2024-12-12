@@ -28,3 +28,6 @@
 - ⚡**Hobbies:** Video Games 🎮, Music and Instruments 🎸, Basketball 🏀, Competitive Programming 💻
 
 <br>
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ShootingStar33&theme=radical)](https://codeforces.com/profile/ShootingStar33)
+![Leetcode Stats](https://leetcard.jacoblin.cool/shootingstar33?ext=contest)
