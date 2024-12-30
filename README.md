@@ -19,7 +19,7 @@
 
 ## 🙋 About Me
 <!--- - 🔭 I’m currently working on -->
-- 👨‍🎓 I graduated from IIT Kharagpur with a **Bachelor's of technology** in June 2024 
+- 👨‍🎓 I graduated from IIT Kharagpur with a **Bachelor of technology** in June 2024 
 - 🌱 Currently exploring quantitative trading and machine learning
 - 💬 Ask me about **Competitive Programming, Game Development**
 - 🖥️ I am a Candidate Master on Codeforces and Guardian on Leetcode
