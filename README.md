@@ -17,7 +17,7 @@
 
 <br>
 
-## 🙋‍♀️ About Me
+## 🙋 About Me
 <!--- - 🔭 I’m currently working on -->
 - 👨‍🎓 I graduated from IIT Kharagpur with a **Bachelor's of technology** in June 2024 
 - 🌱 Currently exploring quantitative trading and machine learning
