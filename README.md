@@ -3,15 +3,15 @@
 </div>
 
 <p align="center">
-  	<a href="website.link"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=071A2C" alt="Website"/></a>
+  	<a href="https://aribshan.netlify.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=071A2C" alt="Website"/></a>
 	&emsp;
 	<a href="mailto:aribshan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/></a>
 	&emsp;
 	<a href="https://linkedin.com/in/arib-shan"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin&color=071A2C" alt="LinkedIn"/></a>
 	&emsp;
-  <a href="https://codeforces.com/profile/ShootingStar33"><img src="https://img.shields.io/badge/Codeforces-0077b5?style=for-the-badge&logo=Codeforces&color=071A2C" alt="Codeforces"/></a>
+  	<a href="https://codeforces.com/profile/ShootingStar33"><img src="https://img.shields.io/badge/Codeforces-0077b5?style=for-the-badge&logo=Codeforces&color=071A2C" alt="Codeforces"/></a>
 	&emsp;
-  <a href="https://leetcode.com/u/shootingstar33/"><img src="https://img.shields.io/badge/Leetcode-0077b5?style=for-the-badge&logo=leetcode&color=071A2C" alt="Leetcode"/></a>
+  	<a href="https://leetcode.com/u/shootingstar33/"><img src="https://img.shields.io/badge/Leetcode-0077b5?style=for-the-badge&logo=leetcode&color=071A2C" alt="Leetcode"/></a>
 	&emsp;
 </p>
 
